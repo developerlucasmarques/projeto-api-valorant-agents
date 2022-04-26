@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Sage",
+        "function": "Sentinela",
+        "biography": "Como uma verdadeira fortaleza chinesa, Sage traz segurança para si mesma e para a equipe aonde quer que vá. Capaz de reviver aliados e rechaçar investidas agressivas, ela oferece um centro de calmaria em meio ao caos da batalha.",
+        "skills": {
+            "Q - Orbe de Lentidão": "EQUIPE um orbe de lentidão. DISPARE para lançá-lo. O orbe detona ao pousar, criando um campo duradouro que desacelera os jogadores dentro dele.",
+            "E - Orbe Curativo": "EQUIPE um orbe curativo. DISPARE com a mira sobre um aliado ferido para ativar uma cura ao longo do tempo. Use o DISPARO SECUNDÁRIO enquanto Sage estiver ferida para ativar uma autocura ao longo do tempo.",
+            "C - Orbe de Barreira": "EQUIPE um orbe de barreira. DISPARE para posicionar uma parede sólida. MODO SEC. gira o marcador de alvo.",
+            "X - Ressurreição": "EQUIPE uma habilidade de ressurreição. DISPARE com a mira sobre um aliado morto para começar a revivê-lo. Depois de uma breve canalização, o aliado voltará com a Vida completa."
+        },
+        "image": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/bustportrait.png"
+    },
+    {
+        "name": "Sova",
+        "function": "Iniciador",
+        "biography": "Nascido sob o eterno inverno das tundras russas, Sova rastreia, encontra e elimina inimigos com eficiência e precisão implacáveis. Seu arco personalizado e suas habilidades inigualáveis de reconhecimento garantem que nenhuma presa escape.",
+        "skills": {
+            "Q - Flecha de Choque": "EQUIPE um arco com uma flecha de choque. DISPARE para lançar a flecha que explode ao impacto, causando dano aos jogadores próximos. SEGURE O DISPARO para estender o alcance do projétil. Use o DISPARO SECUNDÁRIO para adicionar até dois ricochetes à flecha.",
+            "E - Flecha Rastreadora": "EQUIPE um arco com uma flecha de reconhecimento. DISPARE para lançar a flecha, que é ativada mediante impacto e revela a localização de quaisquer inimigos próximos da sua linha de visão. SEGURE O DISPARO para ampliar o alcance do projétil. Use o DISPARO SECUNDÁRIO para adicionar até dois ricochetes à flecha.",
+            "C - Drone Coruja": "EQUIPE um drone coruja. DISPARE para acionar e pilotar o drone. Enquanto pilota o drone, DISPARE para atirar um dardo marcador. Dardos revelam a localização de quaisquer jogadores atingidos.",
+            "X - Fúria do Caçador": "EQUIPE um arco com três disparos de longo alcance que perfuram paredes. DISPARE para atirar um raio de energia diante de Sova, causando dano e revelando a localização dos inimigos que estiverem na linha. A habilidade pode ser REPETIDA mais duas vezes enquanto o cronômetro de habilidade estiver ativo."
+        },
+        "image": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/bustportrait.png"
+    },
+    {
+        "name": "Omen",
+        "function": "Controlador",
+        "biography": "Omen, uma lembrança fantasmagórica, caça nas sombras. Ele cega os inimigos, teleporta-se pelo campo e deixa a paranoia assumir o controle enquanto o adversário tenta descobrir de onde virá seu próximo ataque.",
+        "skills": {
+            "Q - Paranoia": "INSTANTANEAMENTE emite um projétil sombrio adiante, reduzindo brevemente o alcance de visão dos jogadores tocados. O projétil atravessa paredes.",
+            "E - Manto Sombrio": "EQUIPE um orbe sombrio e veja o indicador de alcance. DISPARE para lançar o orbe no local marcado, criando uma esfera de sombra duradoura que bloqueia a visão. SEGURE O DISPARO SECUNDÁRIO enquanto mira para afastar o marcador. SEGURE a tecla de habilidade enquanto mira para aproximar o marcador.",
+            "C - Passos Tenebrosos": "EQUIPE uma habilidade de passos sombrios e olhe o indicador de alcance. DISPARE para começar uma breve canalização e, então, teleporte-se para o local marcado.",
+            "X - Salto das Sombras": "EQUIPE um mapa tático. DISPARE para começar a se teleportar ao local selecionado. Enquanto se teleporta, Omen aparecerá como um Vulto que pode ser destruído por qualquer inimigo para cancelar o teleporte."
+        },
+        "image": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/bustportrait.png"
+    },
+    {
+        "name": "Killjoy",
+        "function": "Sentinela",
+        "biography": "Killjoy, uma alemã genial, defende o campo de batalha facilmente usando seu arsenal de invenções. Se o dano causado por seu equipamento não der cabo dos inimigos, os efeitos negativos de seus queridos robôs dão conta do recado.",
+        "skills": {
+            "Q - Robô de Alarme": "EQUIPE um Robô de Alarme oculto. DISPARE para ativar um robô que persegue os inimigos que entram no alcance. Ao se aproximar do alvo, o robô explode, causando dano e aplicando Vulnerável. SEGURE EQUIPAR para retirar um robô ativado.",
+            "E - Torreta": "EQUIPE uma Torreta. DISPARE para ativar uma torreta que atira em inimigos em um cone de 180°. SEGURE EQUIPAR para retirar a torreta ativada.",
+            "C - Nanoenxame": "EQUIPE uma granada Nanoenxame. DISPARE para lançar a granada. Ao atingir uma superfície, a Nanoenxame fica oculta. ATIVE a Nanoenxame para acionar um enxame de nanorrobôs que causam dano.",
+            "X - Confinamento": "EQUIPE o dispositivo de Confinamento. DISPARE para ativá-lo. Após um longo processo de ativação, o dispositivo detém todos os inimigos no raio de alcance. O dispositivo pode ser destruído pelos inimigos."
+        },
+        "image": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/bustportrait.png"
+    },
+    {
+        "name": "Jett",
+        "function": "Duelista",
+        "biography": "Representando a Coreia do Sul, sua terra natal, Jett tem um estilo de luta ágil e evasivo que permite que ela assuma riscos como ninguém. Ela corre em meio a qualquer confronto, cortando os inimigos antes mesmo que eles percebam quem ou o que os atingiu.",
+        "skills": {
+            "Q - Corrente Ascendente": "INSTANTANEAMENTE impele Jett bem alto no ar.",
+            "E - Brisa de Impulso": "INSTANTANEAMENTE impele Jett na direção atual de movimento dela. Se estiver parada, Jett será impelida para a frente.",
+            "C - Erupção das Brumas": "Lança INSTANTANEAMENTE um projétil que se expande numa breve nuvem que obscurece a visão ao bater numa superfície. SEGURE o botão da habilidade para curvar a fumaça na direção da sua mira.",
+            "X - Tormenta de Aço": "EQUIPE um conjunto de facas altamente precisas que são recarregadas ao matar um oponente. DISPARE para lançar uma única faca contra o alvo. Use o DISPARO SECUNDÁRIO para jogar todas as facas restantes contra o alvo."
+        },
+        "image": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/bustportrait.png"
+    }
+]
